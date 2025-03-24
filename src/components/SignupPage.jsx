@@ -72,7 +72,7 @@ const SignupPage = () => {
               event.preventDefault();
               navigate("/profile");
             }}
-            className="w-full mt-16 bg-violet-600 text-white py-2 rounded-lg font-semibold"
+            className="w-full mt-28 bg-violet-600 text-white py-2 rounded-lg font-semibold"
           >
             Create Account
           </button>
