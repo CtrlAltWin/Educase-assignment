@@ -2,11 +2,11 @@ import { useNavigate } from "react-router-dom";
 const SignupPage = () => {
   const navigate = useNavigate();
   return (
-    <div className="flex justify-center h-[99vh] items-center">
-      <div className="px-5 pt-8 pb-10 w-96 border border-gray-300">
+    <div className="flex justify-center">
+      <div className="px-5 pt-8 pb-10 h-[95vh] mt-5 w-96 border border-gray-300">
         <h1 className="text-2xl font-bold mb-4">
-          <div>Create your</div>
-          <div>PopX account</div>
+          <p>Create your</p>
+          <p>PopX account</p>
         </h1>
         <form>
           <label className="relative top-2 left-2 z-10 bg-gray-100 text-sm font-medium text-violet-600">

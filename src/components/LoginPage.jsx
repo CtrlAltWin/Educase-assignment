@@ -4,8 +4,8 @@ const LoginPage = () => {
   const [isInputboxActive, setIsInputboxActive] = useState(false);
   const navigate = useNavigate();
   return (
-    <div className="flex justify-center h-[99vh] items-center">
-      <div className="px-5 py-8 w-96 h-[80vh] border border-gray-300">
+    <div className="flex justify-center">
+      <div className="px-5 py-8 w-96 h-[95vh] mt-5 border border-gray-300">
         <h1 className="text-2xl font-bold">Signin to your</h1>
         <h1 className="text-2xl font-bold mb-3">PopX account</h1>
         <p className="text-gray-500 text-xl mb-3">

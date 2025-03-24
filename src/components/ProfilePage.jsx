@@ -1,7 +1,7 @@
 const ProfilePage = () => {
   return (
     <div className="flex justify-center">
-      <div className="flex-col h-[95vh] mt-5 w-[85vw] border border-gray-300">
+      <div className="flex-col h-[95vh] mt-5 w-96 border border-gray-300">
         <div className="flex items-center px-5 h-16 w-full shadow-xs bg-white">
           <h1 className="text-lg font-semibold">Account Settings</h1>
         </div>
