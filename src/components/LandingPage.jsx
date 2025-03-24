@@ -6,7 +6,7 @@ const LandingPage = () => {
       <div className="h-[95vh] w-96 border border-gray-300 px-5 mt-5 pt-[63vh]">
         <h1 className="font-semibold text-3xl mb-2">Welcome to PopX</h1>
         <p className="text-gray-500 text-xl mb-6">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         </p>
         <div className="w-full">
           <button

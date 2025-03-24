@@ -9,7 +9,7 @@ const LoginPage = () => {
         <h1 className="text-2xl font-bold">Signin to your</h1>
         <h1 className="text-2xl font-bold mb-3">PopX account</h1>
         <p className="text-gray-500 text-xl mb-3">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         </p>
         <form>
           <label className="relative top-2 left-2 z-10 bg-gray-100 text-sm font-medium text-violet-500">
